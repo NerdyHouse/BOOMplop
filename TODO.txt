@@ -1,0 +1,8 @@
+VIDEO PLAYER
+- Can still downoad vid file if blob!
+- Stream in video instead?
+- Video.js?
+
+- overlays / recommendations
+- ad prerolls & graphics
+- dynamic src
